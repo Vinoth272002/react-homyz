@@ -1,0 +1,21 @@
+.f-container {
+  justify-content: space-evenly;
+}
+.f-left {
+  gap: 1rem;
+}
+.f-menu span {
+  padding: 0 0 0 0.8rem;
+}
+.f-menu {
+  margin: 0.5rem 0 0 -0.9rem;
+}
+@media (max-width: 768px) {
+  .f-container {
+    justify-content: center;
+  }
+  .f-container > div {
+    align-items: center !important;
+    text-align: center;
+  }
+}
