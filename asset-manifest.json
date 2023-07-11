@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-homyz/static/css/main.2a751b55.css",
+    "main.js": "/react-homyz/static/js/main.a2600abc.js",
+    "static/media/hero-image.png": "/react-homyz/static/media/hero-image.eade2b5f1b7c166cb16c.png",
+    "static/media/value.png": "/react-homyz/static/media/value.b619962bdea2621cbd6b.png",
+    "static/media/contact.jpg": "/react-homyz/static/media/contact.5e0194664deddac4b915.jpg",
+    "static/media/equinix.png": "/react-homyz/static/media/equinix.236399b3ed670db792cf.png",
+    "static/media/tower.png": "/react-homyz/static/media/tower.cc77e18f59771c7ad75b.png",
+    "static/media/prologis.png": "/react-homyz/static/media/prologis.e1c1031f09a0b81f98d9.png",
+    "static/media/realty.png": "/react-homyz/static/media/realty.11971af17bb2cc252199.png",
+    "static/media/revicons.eot": "/react-homyz/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react-homyz/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/react-homyz/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/react-homyz/index.html",
+    "main.2a751b55.css.map": "/react-homyz/static/css/main.2a751b55.css.map",
+    "main.a2600abc.js.map": "/react-homyz/static/js/main.a2600abc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a751b55.css",
+    "static/js/main.a2600abc.js"
+  ]
+}
